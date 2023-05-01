@@ -1,0 +1,53 @@
+Site,year,meanbyyear,Region,Index,meanannualoutflow
+Brickyard,2014,15.37568351,Richardson Bay,Dry,8059
+Brickyard,2015,3.846960183,Richardson Bay,Dry,5850
+Brickyard,2016,0.996192529,Richardson Bay,Moderate,18241
+Brickyard,2017,6.101558642,Richardson Bay,Wet,63936
+Brickyard,2018,1.872194989,Richardson Bay,Moderate,13271
+Brickyard,2019,9.586956522,Richardson Bay,Wet,38928
+Brickyard,2020,0.317592593,Richardson Bay,Dry,8104
+Brickyard,2021,10.85549483,Richardson Bay,Dry,7324
+China Camp,2014,568.7359275,San Pablo Bay,Dry,8059
+China Camp,2015,466.7352779,San Pablo Bay,Dry,5850
+China Camp,2016,147.0787916,San Pablo Bay,Moderate,18241
+China Camp,2017,3.427382478,San Pablo Bay,Wet,63936
+China Camp,2018,80.66218334,San Pablo Bay,Moderate,13271
+China Camp,2019,20.35711806,San Pablo Bay,Wet,38928
+China Camp,2020,230.8414855,San Pablo Bay,Dry,8104
+China Camp,2021,206.0102682,San Pablo Bay,Dry,7324
+Dunphy Park,2014,6.862043197,Richardson Bay,Dry,8059
+Dunphy Park,2015,3.11377081,Richardson Bay,Dry,5850
+Dunphy Park,2016,0.646527778,Richardson Bay,Moderate,18241
+Dunphy Park,2017,1.471512346,Richardson Bay,Wet,63936
+Dunphy Park,2018,0.393070874,Richardson Bay,Moderate,13271
+Dunphy Park,2019,0.39057971,Richardson Bay,Wet,38928
+Dunphy Park,2020,5.081481481,Richardson Bay,Dry,8104
+Dunphy Park,2021,3.144166667,Richardson Bay,Dry,7324
+Loch Lomond,2014,40.75039063,Central Bay,Dry,8059
+Loch Lomond,2015,11.42094774,Central Bay,Dry,5850
+Loch Lomond,2016,11.80104243,Central Bay,Moderate,18241
+Loch Lomond,2017,4.384639126,Central Bay,Wet,63936
+Loch Lomond,2018,16.83552405,Central Bay,Moderate,13271
+Loch Lomond,2019,14.87013889,Central Bay,Wet,38928
+Loch Lomond,2020,15.53442029,Central Bay,Dry,8104
+Loch Lomond,2021,15.79242484,Central Bay,Dry,7324
+Point San Quentin,2014,205.685456,Central Bay,Dry,8059
+Point San Quentin,2015,90.0172023,Central Bay,Dry,5850
+Point San Quentin,2016,25.36653496,Central Bay,Moderate,18241
+Point San Quentin,2017,26.50159151,Central Bay,Wet,63936
+Point San Quentin,2018,33.05468986,Central Bay,Moderate,13271
+Point San Quentin,2019,29.18732639,Central Bay,Wet,38928
+Point San Quentin,2020,31.69021739,Central Bay,Dry,8104
+Point San Quentin,2021,44.51013852,Central Bay,Dry,7324
+Brickyard,2010,0.852278654,Richardson Bay,Moderate,16870
+Brickyard,2011,4.632681739,Richardson Bay,Wet,35097
+Brickyard,2012,3.856481482,Richardson Bay,Moderate,14173
+China Camp,2010,222.0127884,San Pablo Bay,Moderate,16870
+China Camp,2011,63.30201329,San Pablo Bay,Wet,35097
+China Camp,2012,190.7605595,San Pablo Bay,Moderate,14173
+Loch Lomond,2010,38.1910581,Central Bay,Moderate,16870
+Loch Lomond,2011,55.23418737,Central Bay,Wet,35097
+Loch Lomond,2012,61.30359384,Central Bay,Moderate,14173
+Point San Quentin,2010,162.4705632,Central Bay,Moderate,16870
+Point San Quentin,2011,98.54193525,Central Bay,Wet,35097
+Point San Quentin,2012,44.67011411,Central Bay,Moderate,14173
